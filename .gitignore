@@ -38,10 +38,5 @@ proguard/
 Thumbs.db
 
 # OSX files
-<<<<<<< HEAD
-.DS_Store
-
 local.properties
-=======
 .DS_Store
->>>>>>> 56f7733c965e3b6416290a55993b45e29e36a334
